@@ -49,7 +49,7 @@ The primary areas tackled were fundamentals of deep learning, CNN, and RNN. Howe
     <br><br>
     <a href="Convolutional Neural Networks/Week3/Car detection for Autonomous Driving">Vehicle Detection</a> - use transfer learning to detect vehicle from roof camera (checkout my Self-Driving-Car-Projects repo if this field interests you)
     <br><br>
-    <image src="assets/3-1.png" height="75%" width="75%">
+    <image src="assets/3-1.png" height="50%" width="50%">
     <br><br>
    </p>
   </th>
