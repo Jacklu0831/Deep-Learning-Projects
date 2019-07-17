@@ -4,16 +4,78 @@ Deep learning projects from beginner (ex. shallow NN, backprop) to advanced (ex.
 
 # Projects Summary (CNN & RNN)
  
-__Convolutional Neural Network__\
-YOLO Object Detection\
-Facial Recognition\
-Artistic Neural Style Tranfer
- 
-__Sequence Models__\
-Dinosaur Name Generator\
-Neural Jazz Improvisation (LSTM)\
-Emoji Generator After Sentences\
-Trigger Word Detector
+### Convolutional Neural Network
+
+<table style="width:100%" align="center">
+ <tr>
+  <th>
+   <p align="center">
+    <image src="">
+    <br>Artistic Neural Style Transfer
+    <br><a href="">Code</a>
+   </p>
+  </th>
+ </tr>
+  <tr>
+  <th>
+   <p align="center">
+    <image src="">
+    <br>Facial Recognition
+    <br><a href="">Code</a>
+   </p>
+  </th>
+ </tr>
+  <tr>
+  <th>
+   <p align="center">
+    <image src="">
+    <br>YOLO Object Detection
+    <br><a href="">Code</a>
+   </p>
+  </th>
+ </tr>
+ </table>
+
+### Sequence Models
+
+<table style="width:100%" align="center">
+ <tr>
+  <th>
+   <p align="center">
+    <image src="">
+    <br>Dinosaur Name Generator
+    <br><a href="">Code</a>
+   </p>
+  </th>
+ </tr>
+ <tr>
+  <th>
+   <p align="center">
+    <image src="">
+    <br>Neural Jazz Improvisation (LSTM)
+    <br><a href="">Code</a>
+   </p>
+  </th>
+ </tr>
+  <tr>
+  <th>
+   <p align="center">
+    <image src="">
+    <br>Emoji Generator
+    <br><a href="">Code</a>
+   </p>
+  </th>
+ </tr>
+  <tr>
+  <th>
+   <p align="center">
+    <image src="">
+    <br>Trigger Word Detector
+    <br><a href="">Code</a>
+   </p>
+  </th>
+ </tr>
+ </table>
 
 # Topics
 
