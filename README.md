@@ -2,7 +2,7 @@
 
 Deep learning projects from beginner (ex. shallow NN, backprop) to advanced (ex. YOLO, generate jazz music). Topics including deep neural network, improving neural network, building neural network project, convolutional neural network, and sequence model. Started with only using NumPy for shallow NN, then moved on to tensorflow with/without keras for deeper networks. 
 
-The primary areas tackled were fundamentals of deep learning, CNN, and RNN. However, I also have worked on [GAN](https://github.com/Jacklu0831/GAN_Projects) and [RL](https://github.com/Jacklu0831/RL_Projects).
+The primary areas tackled were fundamentals of deep learning, CNN, and RNN. However, I also have worked on [Generative Adversarial Network (GAN)](https://github.com/Jacklu0831/GAN_Projects) and [Reinforcement Learning (RL)](https://github.com/Jacklu0831/RL_Projects).
 
 # Projects Summary (CNN & RNN)
  
@@ -12,27 +12,44 @@ The primary areas tackled were fundamentals of deep learning, CNN, and RNN. Howe
  <tr>
   <th>
    <p align="center">
-    <image src="">
-    <br>Artistic Neural Style Transfer - manipulate an image to have the style of the another image
-    <br><a href="assets/3-3.png">Code</a>
+    <br><br>
+    <a href="">Artistic Neural Style Transfer</a> - manipulate an image to have the style of the another image
+    <br><br><image src="assets/3-3.png">
+     <br><br>
    </p>
   </th>
  </tr>
   <tr>
-  <th>
-   <p align="center">
-    <image src="">
-    <br>Facial Recognition - recognize different faces with corresponding names with triple loss
-    <br><a href="assets/3-2.png">Code</a>
-   </p>
-  </th>
+   <th>
+    <p align="center">
+     _________________________________________________________________________
+    </p>
+    <th>
  </tr>
   <tr>
   <th>
    <p align="center">
-    <image src="assets/3-1.png">
-    <br>Driving Detection - detect objects with YOLO transfer learning
-    <br><a href="">Code</a>
+    <br><br>
+    <a href="">Facial Recognition</a> - recognize different faces with corresponding names with triple loss
+    <br><br><image src="assets/3-2.png">
+     <br><br>
+   </p>
+  </th>
+ </tr>
+  <tr>
+   <th>
+    <p align="center">
+     _________________________________________________________________________
+    </p>
+    <th>
+ </tr>
+  <tr>
+  <th>
+   <br><br>
+   <p align="center">
+    <a href="">Vehicle Detection</a> - detect objects with YOLO transfer learning
+    <br><be=r><image src="assets/3-1.png">
+     <br><br>
    </p>
   </th>
  </tr>
@@ -44,45 +61,73 @@ The primary areas tackled were fundamentals of deep learning, CNN, and RNN. Howe
  <tr>
   <th>
    <p align="center">
-    <image src="assets/4-1.png"><image src="assets/4-2.png">
     <br>Text Generator - make fake dinosaur names and even Shakespearean poems
     <br><a href="">Code</a>
+    <image src="assets/4-1.png"><image src="assets/4-2.png">
    </p>
   </th>
  </tr>
  <tr>
+<th>
+ <p align="center">
+  _________________________________________________________________________
+ </p>
+ <th>
+ </tr>
+ <tr>
   <th>
    <p align="center">
-    <image src="assets/4-3.png">
     <br>Neural Jazz Improvisation - generate Jazz music with LSTM 
     <br><a href="">Code</a>
-   </p>
-  </th>
- </tr>
-  <tr>
-  <th>
-   <p align="center">
-    <image src="assets/4-5.png">
-    <br>Emoji Generator - append emoji to sentences with word embeddings
-    <br><a href="">Code</a>
+    <image src="assets/4-3.png">
    </p>
   </th>
  </tr>
    <tr>
-  <th>
-   <p align="center">
-    <image src="assets/4-6.png">
-    <br>Date Translation - translate date format from "DAY MONTH YEAR" to "YEAR-MONTH-DAY" with attention architecture
-    <br><a href="">Code</a>
-   </p>
-  </th>
+   <th>
+    <p align="center">
+     _________________________________________________________________________
+    </p>
+    <th>
  </tr>
   <tr>
   <th>
    <p align="center">
-    <image src="assets/4-7.png">
+    <br>Emoji Generator - append emoji to sentences with word embeddings
+    <br><a href="">Code</a>
+    <image src="assets/4-5.png">
+   </p>
+  </th>
+ </tr>
+   <tr>
+   <th>
+    <p align="center">
+     _________________________________________________________________________
+    </p>
+    <th>
+ </tr>
+   <tr>
+  <th>
+   <p align="center">
+    <br>Date Translation - translate date format from "DAY MONTH YEAR" to "YEAR-MONTH-DAY" with attention architecture
+    <br><a href="">Code</a>
+    <image src="assets/4-6.png">
+   </p>
+  </th>
+ </tr>
+   <tr>
+   <th>
+    <p align="center">
+     _________________________________________________________________________
+    </p>
+    <th>
+ </tr>
+  <tr>
+  <th>
+   <p align="center">
     <br>Trigger Word Detector - detect the word "attention" from any audio file with deep RNN
     <br><a href="">Code</a>
+    <image src="assets/4-7.png">
    </p>
   </th>
  </tr>
