@@ -3,19 +3,18 @@
 Deep learning projects from beginner (ex. shallow NN, backprop) to advanced (ex. YOLO, generate jazz music). Topics including deep neural network, improving neural network, building neural network project, convolutional neural network, and sequence model. Started with only using NumPy for shallow NN, then moved on to tensorflow with/without keras for deeper networks. 
 
 The primary areas tackled were fundamentals of deep learning, CNN, and RNN. However, I also have worked on [Generative Adversarial Network (GAN)](https://github.com/Jacklu0831/GAN_Projects) and [Reinforcement Learning (RL)](https://github.com/Jacklu0831/RL_Projects).
-
-# Projects Summary (CNN & RNN)
  
-### Convolutional Neural Network
+# Convolutional Neural Network Projects
 
 <table style="width:100%" align="center">
  <tr>
   <th>
    <p align="center">
     <br><br>
-    <a href="">Artistic Neural Style Transfer</a> - manipulate an image to have the style of the another image
-    <br><br><image src="assets/3-3.png">
-     <br><br>
+    <a href="Convolutional Neural Networks/Week4/Neural Style Transfer">Artistic Neural Style Transfer</a> - manipulate an image to have the style of the another image
+    <br><br>
+    <image src="assets/3-3.png">
+    <br><br>
    </p>
   </th>
  </tr>
@@ -24,15 +23,16 @@ The primary areas tackled were fundamentals of deep learning, CNN, and RNN. Howe
     <p align="center">
      _________________________________________________________________________
     </p>
-    <th>
+    </th>
  </tr>
   <tr>
   <th>
    <p align="center">
     <br><br>
-    <a href="">Facial Recognition</a> - recognize different faces with corresponding names with triple loss
-    <br><br><image src="assets/3-2.png">
-     <br><br>
+    <a href="Convolutional Neural Networks/Week4/Face Recognition">Facial Recognition</a> - recognize different faces with corresponding names with triple loss
+    <br><br>
+    <image src="assets/3-2.png">
+    <br><br>
    </p>
   </th>
  </tr>
@@ -41,29 +41,34 @@ The primary areas tackled were fundamentals of deep learning, CNN, and RNN. Howe
     <p align="center">
      _________________________________________________________________________
     </p>
-    <th>
+    </th>
  </tr>
   <tr>
   <th>
-   <br><br>
    <p align="center">
-    <a href="">Vehicle Detection</a> - detect objects with YOLO transfer learning
-    <br><be=r><image src="assets/3-1.png">
-     <br><br>
+    <br><br>
+    <a href="Convolutional Neural Networks/Week3/Car detection for Autonomous Driving">Vehicle Detection</a> - use transfer learning to detect vehicle from roof camera (checkout my Self-Driving-Car-Projects repo if this field interests you)
+    <br><br>
+    <image src="assets/3-1.png" height="75%" width="75%">
+    <br><br>
    </p>
   </th>
  </tr>
  </table>
-
-### Sequence Models
+ 
+# Recurrent Neural Network Projects
 
 <table style="width:100%" align="center">
  <tr>
   <th>
    <p align="center">
-    <br>Text Generator - make fake dinosaur names and even Shakespearean poems
-    <br><a href="">Code</a>
-    <image src="assets/4-1.png"><image src="assets/4-2.png">
+    <br><br>
+    <a href="Sequence Models/Week1/Dinosaur Island -- Character-level language model">Text Generator</a> - make fake dinosaur names and even Shakespearean poems
+    <br><br>
+    <pre>
+    <image src="assets/4-1.png" width="30%" height="30%">  <image src="assets/4-2.png" width="45%" height="45%">
+    </pre>
+    <br><br>
    </p>
   </th>
  </tr>
@@ -72,14 +77,16 @@ The primary areas tackled were fundamentals of deep learning, CNN, and RNN. Howe
  <p align="center">
   _________________________________________________________________________
  </p>
- <th>
+ </th>
  </tr>
  <tr>
   <th>
    <p align="center">
-    <br>Neural Jazz Improvisation - generate Jazz music with LSTM 
-    <br><a href="">Code</a>
-    <image src="assets/4-3.png">
+    <br><br>
+    <a href="Sequence Models/Week1/Jazz improvisation with LSTM">Jazz Improvisation</a> - generate Jazz music with LSTM 
+    <br><br>
+    <image src="assets/4-3.png" height="50%" width="50%">
+    <br><br>
    </p>
   </th>
  </tr>
@@ -88,14 +95,16 @@ The primary areas tackled were fundamentals of deep learning, CNN, and RNN. Howe
     <p align="center">
      _________________________________________________________________________
     </p>
-    <th>
+    </th>
  </tr>
   <tr>
   <th>
    <p align="center">
-    <br>Emoji Generator - append emoji to sentences with word embeddings
-    <br><a href="">Code</a>
+    <br><br>
+    <a href="Sequence Models/Week2/Emojify">Emoji Generator</a> - append emoji to sentences with word embeddings
+    <br><br>
     <image src="assets/4-5.png">
+    <br><br>
    </p>
   </th>
  </tr>
@@ -104,14 +113,16 @@ The primary areas tackled were fundamentals of deep learning, CNN, and RNN. Howe
     <p align="center">
      _________________________________________________________________________
     </p>
-    <th>
+    </th>
  </tr>
    <tr>
   <th>
    <p align="center">
-    <br>Date Translation - translate date format from "DAY MONTH YEAR" to "YEAR-MONTH-DAY" with attention architecture
-    <br><a href="">Code</a>
+    <br><br>
+    <a href="Sequence Models/Week3/Machine Translation">Date Translation</a> - translate date format from "DAY MONTH YEAR" to "YEAR-MONTH-DAY" with attention architecture
+    <br><br>
     <image src="assets/4-6.png">
+    <br><br>
    </p>
   </th>
  </tr>
@@ -120,14 +131,16 @@ The primary areas tackled were fundamentals of deep learning, CNN, and RNN. Howe
     <p align="center">
      _________________________________________________________________________
     </p>
-    <th>
+    </th>
  </tr>
   <tr>
   <th>
    <p align="center">
-    <br>Trigger Word Detector - detect the word "attention" from any audio file with deep RNN
-    <br><a href="">Code</a>
+    <br><br>
+    <a href="Sequence Models/Week3/Trigger word detection">Trigger Word Detector</a> - detect the word "activate" from any audio file with deep RNN
+    <br><br>
     <image src="assets/4-7.png">
+    <br><br>
    </p>
   </th>
  </tr>
