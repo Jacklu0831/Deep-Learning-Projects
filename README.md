@@ -1,6 +1,8 @@
 # Deep Learning Projects
 
-Deep learning projects from beginner (ex. shallow NN, backprop) to advanced (ex. YOLO, generate jazz music). Topics including deep neural network, improving neural network, building neural network project, convolutional neural network, and sequence model. Started with only using NumPy for shallow NN, then moved on to tensorflow with/without keras for deeper networks.
+Deep learning projects from beginner (ex. shallow NN, backprop) to advanced (ex. YOLO, generate jazz music). Topics including deep neural network, improving neural network, building neural network project, convolutional neural network, and sequence model. Started with only using NumPy for shallow NN, then moved on to tensorflow with/without keras for deeper networks. 
+
+The primary areas tackled were fundamentals of deep learning, CNN, and RNN. However, I also have worked on [GAN](https://github.com/Jacklu0831/GAN_Projects) and [RL](https://github.com/Jacklu0831/RL_Projects).
 
 # Projects Summary (CNN & RNN)
  
@@ -11,8 +13,8 @@ Deep learning projects from beginner (ex. shallow NN, backprop) to advanced (ex.
   <th>
    <p align="center">
     <image src="">
-    <br>Artistic Neural Style Transfer
-    <br><a href="">Code</a>
+    <br>Artistic Neural Style Transfer - manipulate an image to have the style of the another image
+    <br><a href="assets/3-3.png">Code</a>
    </p>
   </th>
  </tr>
@@ -20,16 +22,16 @@ Deep learning projects from beginner (ex. shallow NN, backprop) to advanced (ex.
   <th>
    <p align="center">
     <image src="">
-    <br>Facial Recognition
-    <br><a href="">Code</a>
+    <br>Facial Recognition - recognize different faces with corresponding names with triple loss
+    <br><a href="assets/3-2.png">Code</a>
    </p>
   </th>
  </tr>
   <tr>
   <th>
    <p align="center">
-    <image src="">
-    <br>YOLO Object Detection
+    <image src="assets/3-1.png">
+    <br>Driving Detection - detect objects with YOLO transfer learning
     <br><a href="">Code</a>
    </p>
   </th>
@@ -42,8 +44,8 @@ Deep learning projects from beginner (ex. shallow NN, backprop) to advanced (ex.
  <tr>
   <th>
    <p align="center">
-    <image src="">
-    <br>Dinosaur Name Generator
+    <image src="assets/4-1.png"><image src="assets/4-2.png">
+    <br>Text Generator - make fake dinosaur names and even Shakespearean poems
     <br><a href="">Code</a>
    </p>
   </th>
@@ -51,8 +53,8 @@ Deep learning projects from beginner (ex. shallow NN, backprop) to advanced (ex.
  <tr>
   <th>
    <p align="center">
-    <image src="">
-    <br>Neural Jazz Improvisation (LSTM)
+    <image src="assets/4-3.png">
+    <br>Neural Jazz Improvisation - generate Jazz music with LSTM 
     <br><a href="">Code</a>
    </p>
   </th>
@@ -60,8 +62,17 @@ Deep learning projects from beginner (ex. shallow NN, backprop) to advanced (ex.
   <tr>
   <th>
    <p align="center">
-    <image src="">
-    <br>Emoji Generator
+    <image src="assets/4-5.png">
+    <br>Emoji Generator - append emoji to sentences with word embeddings
+    <br><a href="">Code</a>
+   </p>
+  </th>
+ </tr>
+   <tr>
+  <th>
+   <p align="center">
+    <image src="assets/4-6.png">
+    <br>Date Translation - translate date format from "DAY MONTH YEAR" to "YEAR-MONTH-DAY" with attention architecture
     <br><a href="">Code</a>
    </p>
   </th>
@@ -69,8 +80,8 @@ Deep learning projects from beginner (ex. shallow NN, backprop) to advanced (ex.
   <tr>
   <th>
    <p align="center">
-    <image src="">
-    <br>Trigger Word Detector
+    <image src="assets/4-7.png">
+    <br>Trigger Word Detector - detect the word "attention" from any audio file with deep RNN
     <br><a href="">Code</a>
    </p>
   </th>
