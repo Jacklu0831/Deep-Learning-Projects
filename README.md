@@ -13,7 +13,7 @@ The primary areas tackled were fundamentals of deep learning, CNN, and RNN. Howe
     <br><br>
     <a href="Convolutional Neural Networks/Week4/Neural Style Transfer">Artistic Neural Style Transfer</a> - manipulate an image to have the style of the another image
     <br><br>
-    <image src="assets/3-3.png">
+    <image src="Convolutional Neural Networks/Week4/Neural Style Transfer/images/content_plus_style.png">
     <br><br>
    </p>
   </th>
