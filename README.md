@@ -2,7 +2,7 @@
 
 Deep learning projects from beginner (ex. shallow NN, backprop) to advanced (ex. YOLO, generate jazz music). Topics including deep neural network, improving neural network, building neural network project, convolutional neural network, and sequence model. Started with only using NumPy for shallow NN, then moved on to tensorflow with/without keras for deeper networks. 
 
-The primary areas tackled were fundamentals of deep learning, CNN, and RNN. However, I also have worked on [Generative Adversarial Network (GAN)](https://github.com/Jacklu0831/GAN-Projects) and [Reinforcement Learning (RL)](https://github.com/Jacklu0831/RL-Projects).
+The primary areas tackled were fundamentals of deep learning, CNN, and RNN. I have also worked on [Generative Adversarial Network (GAN)](https://github.com/Jacklu0831/GAN-Projects) and [Reinforcement Learning (RL)](https://github.com/Jacklu0831/Simulation-Solving-RL).
  
 # Convolutional Neural Network Projects
 
@@ -13,7 +13,7 @@ The primary areas tackled were fundamentals of deep learning, CNN, and RNN. Howe
     <br><br>
     <a href="Convolutional Neural Networks/Week4/Neural Style Transfer">Artistic Neural Style Transfer</a> - manipulate an image to have the style of the another image
     <br><br>
-    <image src="assets/3-3.png">
+    <image src="Convolutional Neural Networks/Week4/Neural Style Transfer/images/content_plus_style.png">
     <br><br>
    </p>
   </th>
