@@ -126,24 +126,6 @@ The primary areas tackled were fundamentals of deep learning, CNN, and RNN. Howe
    </p>
   </th>
  </tr>
-   <tr>
-   <th>
-    <p align="center">
-     _________________________________________________________________________
-    </p>
-    </th>
- </tr>
-  <tr>
-  <th>
-   <p align="center">
-    <br><br>
-    <a href="Sequence Models/Week3/Trigger word detection">Trigger Word Detector</a> - detect the word "activate" from any audio file with deep RNN
-    <br><br>
-    <image src="assets/4-7.png">
-    <br><br>
-   </p>
-  </th>
- </tr>
  </table>
 
 # Topics
